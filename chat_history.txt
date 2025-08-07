@@ -22,3 +22,71 @@
 ---New Chat---
 
 ---New Chat---
+user: hello
+assisstant: Please specify the language you would like me to translate "hello" into. For example, you could say "Translate hello into Spanish" or "Translate hello into French."
+
+user: translate hello into urdu
+assisstant: The translation of "hello" into Urdu is:
+
+**السلام علیکم (Assalamu Alaikum)**
+
+This is the most common and widely used greeting.
+
+user: translate compatibility into urdu
+assisstant: Please specify what kind of compatibility you're looking for. For example, is it:
+
+*   **General compatibility?** (e.g., "These two things have compatibility.")
+*   **Computer/technical compatibility?** (e.g., "Software compatibility")
+*   **Relationship compatibility?** (e.g., "Personality compatibility")
+
+Once I know the context, I can give you the most accurate translation.
+
+user: translate my name is mahnoor into urdu
+assisstant: آپ کا نام مہنور ہے ۔
+
+user: my name is mahnoor, change this into urdu
+assisstant: کیا آپ براہ کرم وضاحت کریں گے کہ آپ کس قسم کی تبدیلی چاہتے ہیں؟ کیا آپ میرا نام اردو میں لکھوانا چاہتے ہیں، یا آپ کچھ اور چاہتے ہیں؟
+
+(Translation: Could you please clarify what kind of change you want? Do you want my name written in Urdu, or do you want something else?)
+
+If you just want the name "Mahnoor" written in Urdu, it is: **مہنور**
+
+user: translate i have an exam tomorrow into urdu
+assisstant: کل میرا امتحان ہے۔ (Kal mera imtihan hai.)
+
+
+---New Chat---
+user: hello
+assisstant: Please specify the language you would like me to translate "hello" into. For example, you could say "Translate hello into Spanish" or "Translate hello into French."
+
+user: translate hello into urdu
+assisstant: The translation of "hello" into Urdu is:
+
+**السلام علیکم (Assalamu Alaikum)**
+
+This is the most common and widely used greeting.
+
+user: translate compatibility into urdu
+assisstant: Please specify what kind of compatibility you're looking for. For example, is it:
+
+*   **General compatibility?** (e.g., "These two things have compatibility.")
+*   **Computer/technical compatibility?** (e.g., "Software compatibility")
+*   **Relationship compatibility?** (e.g., "Personality compatibility")
+
+Once I know the context, I can give you the most accurate translation.
+
+user: translate my name is mahnoor into urdu
+assisstant: آپ کا نام مہنور ہے ۔
+
+user: my name is mahnoor, change this into urdu
+assisstant: کیا آپ براہ کرم وضاحت کریں گے کہ آپ کس قسم کی تبدیلی چاہتے ہیں؟ کیا آپ میرا نام اردو میں لکھوانا چاہتے ہیں، یا آپ کچھ اور چاہتے ہیں؟
+
+(Translation: Could you please clarify what kind of change you want? Do you want my name written in Urdu, or do you want something else?)
+
+If you just want the name "Mahnoor" written in Urdu, it is: **مہنور**
+
+user: translate i have an exam tomorrow into urdu
+assisstant: کل میرا امتحان ہے۔ (Kal mera imtihan hai.)
+
+
+---New Chat---
